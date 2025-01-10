@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="./docs/images/banner.png" width=500	alt="project logo"/>
+	<img src="./docs/images/krayton-executor-banner.png" width=500	alt="project logo"/>
 </p>
 <h4 align="center">Decomply fast with 0 detections.</h4>
 
